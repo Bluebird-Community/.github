@@ -13,3 +13,11 @@ This organization is the place for organizing work and discussions, the source c
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+## Guiding Priniciples
+
+This project has a few important principles which guide development:
+
+* Community: If a newbie has a bad time, it’s a bug.
+* Engineering: Make it work, make it right, then make it fast – in that order.
+* Capabilities: If it doesn’t do a thing today, we can make it do it tomorrow.

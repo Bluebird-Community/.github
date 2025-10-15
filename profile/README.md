@@ -21,3 +21,14 @@ This project has a few important principles which guide development:
 * Community: If a newbie has a bad time, it’s a bug.
 * Engineering: Make it work, make it right, then make it fast – in that order.
 * Capabilities: If it doesn’t do a thing today, we can make it do it tomorrow.
+
+## Getting Started
+
+* RPM and Debian packages:
+  * [Core, Minion, Sentinel](https://cloudsmith.io/~bluebird/repos/stable/packages/)
+  * [JRRD2, IPLIKE, Elasticsearch Drift Plugin, etc.](https://cloudsmith.io/~bluebird/repos/common/packages/)
+* [Container images: https://quay.io/organization/bluebird](https://quay.io/organization/bluebird)
+* Supported versions
+  * OpenJDK 17
+  * PostgreSQL 18
+  * Elasticsearch 9.1.5

@@ -27,7 +27,7 @@ This project has a few important principles which guide development:
 * RPM and Debian packages:
   * [Core, Minion, Sentinel](https://cloudsmith.io/~bluebird/repos/stable/packages/)
   * [JRRD2, IPLIKE, Elasticsearch Drift Plugin, etc.](https://cloudsmith.io/~bluebird/repos/common/packages/)
-  * [Container images: https://quay.io/organization/bluebird](https://quay.io/organization/bluebird)
+  * [Container images](https://quay.io/organization/bluebird](https://quay.io/organization/bluebird)
 * Supported versions
   * OpenJDK 17
   * PostgreSQL 18

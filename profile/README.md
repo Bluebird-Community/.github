@@ -32,3 +32,12 @@ This project has a few important principles which guide development:
   * OpenJDK 17
   * PostgreSQL 18
   * Elasticsearch 9.1.5
+ 
+## Public Services
+| Purpose                | Status                                                   | Response Time                                              |
+|------------------------|----------------------------------------------------------|------------------------------------------------------------|
+| Tile server            | ![](https://uptime.labmonkeys.space/api/badge/26/status) | ![](https://uptime.labmonkeys.space/api/badge/26/response) |
+| Statistics             | ![](https://uptime.labmonkeys.space/api/badge/33/status) | ![](https://uptime.labmonkeys.space/api/badge/33/response) |
+| Maven CDN EU Central 1 | ![](https://uptime.labmonkeys.space/api/badge/27/status) | ![](https://uptime.labmonkeys.space/api/badge/27/response) |
+| Maven CDN US East 1    | ![](https://uptime.labmonkeys.space/api/badge/31/status) | ![](https://uptime.labmonkeys.space/api/badge/31/response) |
+| Statistics             | ![](https://uptime.labmonkeys.space/api/badge/33/status) | ![](https://uptime.labmonkeys.space/api/badge/33/response) |
